@@ -1,3 +1,3 @@
-# JinrishiciAPI
+# Playground
 
-Play fun with Jinrishici API.
+This used to be a playground for python.
