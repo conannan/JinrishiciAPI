@@ -1,3 +1,3 @@
 # Playground
 
-This used to be a playground for python.
+This used to be a playground for Python.
