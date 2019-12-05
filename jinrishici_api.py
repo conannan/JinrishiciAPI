@@ -11,7 +11,7 @@ def get_token():
 
 
 def get_info():
-    headers = {'X-User-Token': '0gTUtDWNU9Fg9qubXDn4mGq2CrWEZ6wQ'}
+    headers = {'X-User-Token': '*******'}
     api_address = "https://v2.jinrishici.com/info"
     result = requests.get(api_address, headers=headers)
     if result.status_code == 200:
@@ -21,7 +21,7 @@ def get_info():
 
 
 def get_sentence():
-    headers = {'X-User-Token': '0gTUtDWNU9Fg9qubXDn4mGq2CrWEZ6wQ'}
+    headers = {'X-User-Token': '*******'}
     api_address = "https://v2.jinrishici.com/sentence"
     result = requests.get(api_address, headers=headers)
     if result.status_code == 200:
